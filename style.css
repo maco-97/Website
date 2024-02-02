@@ -1,6 +1,18 @@
-.title:hover{
-	color: red;
+h1:hover{ 
+	color: purple;
+}
+h3{
+	color: orange
 }
 #List{
 	color: green;
+}
+#lorem-link:hover{
+	color: purple
+}
+#lorem-link:link{
+	color: blue
+}
+#lorem-link:visited{
+	color: red
 }
